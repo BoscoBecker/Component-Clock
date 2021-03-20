@@ -6,16 +6,16 @@ Esse Componente mostrará a hora atual com diversos estilos
 
 Componente com os respectivos estilos(myStyle) 
 
-##tpStyleNigth 
+## tpStyleNigth 
  Fundo Escuro com cor verde
 
-##tpStyleGray 
+## tpStyleGray 
  Fundo transparente com cor cinza
 
-##tpStyleWhite 
+## tpStyleWhite 
  Fundo transparente com cor branca
 
-##tpStyleBlue 
+## tpStyleBlue 
  Fundo transparente com cor Azul
 
 
