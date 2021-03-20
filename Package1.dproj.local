@@ -2,8 +2,10 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2021/02/03 21:02:54.000.675,=rtl.dcp</Transaction>
-    <Transaction>2021/02/03 21:04:55.000.268,=C:\Users\joao.becker\Desktop\Componente Relógio\TClock.pas</Transaction>
     <Transaction>2021/02/03 21:04:55.000.450,=vcl.dcp</Transaction>
-    <Transaction>2021/02/03 21:20:57.000.727,C:\Users\joao.becker\Desktop\Componente Relógio\Package1.dproj=C:\Users\joao.becker\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2021/02/03 21:04:55.000.268,=C:\Users\joao.becker\Desktop\Componente Relógio\TClock.pas</Transaction>
+    <Transaction>2021/02/03 21:20:57.000.727,C:\Users\joao.becker\Documents\Embarcadero\Studio\Projects\Package1.dproj=C:\Users\joao.becker\Desktop\Componente Relógio\Package1.dproj</Transaction>
+    <Transaction>2021/03/20 16:32:25.000.653,C:\Users\joao.becker\Desktop\Componente Relógio\Package1.dproj=C:\Users\joao.becker\Desktop\Componente Relógio\clock.dproj</Transaction>
+    <Transaction>2021/03/20 16:32:43.000.125,C:\Users\joao.becker\Desktop\Componente Relógio\clock.dproj=C:\Users\joao.becker\Desktop\Componente Relógio\package1.dproj</Transaction>
   </Transactions>
 </BorlandProject>

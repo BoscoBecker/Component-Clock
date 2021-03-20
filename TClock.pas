@@ -6,7 +6,7 @@ uses
   System.SysUtils, System.Classes, Vcl.Controls, Vcl.StdCtrls, Vcl.ExtCtrls, Vcl.Graphics;
 
 type
-  TStyle = (tpStyleNigth,tpStyleWhite,tpStyleGray, tpStyleBlue );
+  TStyle = (tpStyleNigth,tpStyleWhite,tpStyleGray, tpStyleBlue,tpStyleRed);
 
 type
   TBClock = class(TLabel)
@@ -20,6 +20,7 @@ type
     procedure StyleWhite;
     procedure StyleGray;
     procedure StyleBlue;
+    procedure StyleRed;
     procedure SetAtivo(const Value: boolean);
     procedure ChangeStyleScreen(vStyle : TStyle );
     procedure SetMyStyle(const Value: TStyle);
@@ -58,7 +59,10 @@ begin
     StyleGray
   else
   if (vStyle = tpStyleBlue) then
-    StyleBlue;
+    StyleBlue
+  else
+  if (vStyle = tpStyleRed) then
+    StyleRed;
 end;
 
 constructor TBClock.Create(Aowner: TComponent);
@@ -118,6 +122,14 @@ begin
   Font.Size := 20;
   color := clBlack;
   Font.Color := clLime;
+end;
+
+procedure TBClock.StyleRed;
+begin
+  Transparent := Boolean(0);
+  Font.Size := 20;
+  color := clYellow;
+  Font.Color := clRed;
 end;
 
 procedure TBClock.StyleWhite;
