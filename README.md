@@ -18,5 +18,7 @@ Componente com os respectivos estilos(myStyle)
 ## tpStyleBlue 
  Fundo transparente com cor Azul
 
+# Easy Instalação
 
-
+Instalação do pacote usando via .dpk
+![Screenshot](/instalacaoDPk.gif)

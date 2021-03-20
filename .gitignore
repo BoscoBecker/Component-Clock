@@ -4,3 +4,5 @@ packer_cache/
 # For built boxes
 *.box
 Package1.dproj.local
+Win32/Debug/TClock.dcu
+Win32/Debug/TClock.dcu
