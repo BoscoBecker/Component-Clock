@@ -1,36 +1,36 @@
-# Componente TClock(Relógio)
-Esse Componente mostrará a hora atual com diversos estilos
+# TClock component (Clock)
+This Component will show the current time with different styles
 
-![Screenshot](/images/ScreenshotClock.png)
-
-
-## Usando propriedades e estilos
-
-![Screenshot](/images/usingStyles.gif)
+! [Screenshot] (/images/ScreenshotClock.png)
 
 
-## Componente com os respectivos estilos(myStyle) 
+## Using properties and styles
 
-## tpStyleNigth 
- Fundo Escuro com cor verde
+! [Screenshot] (/images/usingStyles.gif)
 
-## tpStyleGray 
- Fundo transparente com cor cinza
 
-## tpStyleWhite 
- Fundo transparente com cor branca
+## Component with respective styles (myStyle)
 
-## tpStyleBlue 
- Fundo transparente com cor Azul
+## tpStyleNigth
+  Dark background with green color
+
+## tpStyleGray
+  Seamless background with gray color
+
+## tpStyleWhite
+  Transparent background with white color
+
+## tpStyleBlue
+  Transparent background with blue color
 
 ## tpStyleRed
- Fundo amarelo com cor Vermelha
+  Yellow background with red color
 
-# Instalação (Easy)
+# Installation (Easy)
 
-## Instalação do pacote usando via .dpk
-![Screenshot](/images/howinstall.gif)
+## Installing the package using .dpk
+! [Screenshot] (/images/howinstall.gif)
 
 
 
-Make with ❤ @boscobecker
+Make with ❤ @boscobecker 
