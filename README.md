@@ -1,12 +1,12 @@
 # TClock component (Clock)
 This Component will show the current time with different styles
 
-! [Screenshot] (/images/ScreenshotClock.png)
+![Screenshot] (/images/ScreenshotClock.png)
 
 
 ## Using properties and styles
 
-! [Screenshot] (/images/usingStyles.gif)
+![Screenshot] (/images/usingStyles.gif)
 
 
 ## Component with respective styles (myStyle)
@@ -29,7 +29,7 @@ This Component will show the current time with different styles
 # Installation (Easy)
 
 ## Installing the package using .dpk
-! [Screenshot] (/images/howinstall.gif)
+![Screenshot] (/images/howinstall.gif)
 
 
 
